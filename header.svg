@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">MR-SVET — from what if to first commit</title>
+<desc id="desc">An emerald banner with a glowing idea following an orbit into a code cursor.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#062C24"/><stop offset="1" stop-color="#031B17"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#B5ED9B" stop-opacity=".26"/><stop offset="1" stop-color="#B5ED9B" stop-opacity="0"/></radialGradient>
+ <linearGradient id="line"><stop stop-color="#D8C691"/><stop offset="1" stop-color="#70CEAB" stop-opacity=".2"/></linearGradient>
+</defs>
+<rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+<rect x="1" y="1" width="1278" height="358" rx="23" fill="none" stroke="#33715D" stroke-opacity=".65"/>
+<g fill="none" stroke="#68B99A" stroke-opacity=".07"><path d="M0 90H1280M0 180H1280M0 270H1280M160 0V360M320 0V360M480 0V360M640 0V360M800 0V360M960 0V360M1120 0V360"/></g>
+<text x="64" y="67" fill="#A5C8B8" font-family="monospace" font-size="15" letter-spacing="4">MR-SVET</text>
+<text x="60" y="148" fill="#F1F5EB" font-family="Arial, sans-serif" font-weight="700" font-size="57">It starts with</text>
+<text x="60" y="216" fill="#DFCFA3" font-family="Arial, sans-serif" font-weight="700" font-size="64">“what if…”</text>
+<text x="64" y="290" fill="#A5C8B8" font-family="monospace" font-size="17">VIBE CODER  /  POWERED BY CURIOSITY + CODEX</text>
+<circle cx="1014" cy="170" r="174" fill="url(#halo)"/>
+<g fill="none"><ellipse cx="1015" cy="175" rx="155" ry="66" transform="rotate(-32 1015 175)" stroke="url(#line)" stroke-width="1.5"/><ellipse cx="1015" cy="175" rx="118" ry="118" stroke="#70CEAB" stroke-opacity=".18"/><path d="M973 143l-32 32 32 32m84-64 32 32-32 32m-27-77-27 90" stroke="#ECF5DD" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g>
+<circle cx="1139" cy="99" r="7" fill="#E1D6A6"/><circle cx="890" cy="248" r="4" fill="#70CEAB"/>
+<text x="924" y="324" fill="#8DAF9E" font-family="monospace" font-size="13" letter-spacing="2">IDEA → BUILD → REPEAT</text>
+</svg>
